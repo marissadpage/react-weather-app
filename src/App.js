@@ -14,7 +14,14 @@ export default function App() {
       target="_blank"
       >
        open-sourced on GitHub 
-       </a> 
+       </a> {" "}
+          and{" "}
+          <a
+            href="https://romantic-noyce-de948c.netlify.app"
+            target="_blank"
+          >
+            hosted on Netlify
+          </a>
       </footer>
       </div>
     </div>
