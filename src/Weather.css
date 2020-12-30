@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
 .Weather {
-    font-family: arial, sans-serif;
+    font-family: 'Handlee', cursive;
     border: 1px solid #dadde1;
     padding: 16px;
     border-radius: 4px;
-    color: rgb(135, 135, 135);
+    color: pink;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
   }
   
   .Weather h1 {
@@ -27,7 +30,7 @@
   
   .Weather .temperature {
     font-weight: bold;
-    color: rgb(33, 33, 33);
+    color: pink;
     font-size: 64px;
     line-height: 64px;
     margin-left: 5px;
@@ -40,7 +43,7 @@
   }
   
   .Weather .unit {
-    color: rgb(33, 33, 33);
+    color: pink;
     font-size: 16px;
     font-weight: 400;
     position: relative;
